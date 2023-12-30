@@ -1,0 +1,36 @@
+[
+  {
+    "nama": "Shiku",
+    "jenisKelamin": "p",
+    "orangtua": [
+      {
+        "nama": "Shiera",
+        "role": "ibu"
+      }
+    ],
+    "anak": []
+  },
+  {
+    "nama": "Shiera",
+    "jenisKelamin": "p",
+    "orangtua": [],
+    "anak": []
+  },
+  {
+    "nama": "Xiera",
+    "jenisKelamin": "p",
+    "orangtua": [],
+    "anak": [
+      {
+        "nama": "Shiera",
+        "role": "anak"
+      }
+    ]
+  },
+  {
+    "nama": "Nanomi",
+    "jenisKelamin": "p",
+    "orangtua": [],
+    "anak": []
+  }
+]
